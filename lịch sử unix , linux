@@ -1,0 +1,93 @@
+Lịch sử UNIX,LINUX – hệ thống điều hành máy tính .
+  
+I.	Kiến thức về UNIX .
+•	 Unix là một hệ điều hành máy tính đa nhiệm , đa 
+người dùng , được tạo ra bởi một số nhân viên của Bell Labs, thuộc AT&T bao gồm 3 nhân viên chính là Ken Thompson , Dennis Ritchie ,Douglas Mcllroy và một số nhân viên khác .  
+•	Unix có thể chạy trên nhiều loại máy tính khác nhau  từ những máy tính cá nhân cho đến máy tính dịch vụ ,hộ trợ một cách lí tưởng một số ứng dụng của nhiều người dùng .
+•	Unix là một hệ điều hành 64 bit đầu tiên ,được sử dụng bởi nhiều công ty , tập đoàn lớn trên thế giới bởi mức độ bảo mật cao.
+
+II.	Lịch sử của Unix
+
+a.	Nguồn gốc của Unix bắt nguồn từ giữa những năm 1960 khi Massachusetts Institute of Technology, Bell Labs, và 
+General Electric cùng phát triển Multics, một hệ điều 
+hành chia sẻ thời gian cho mainframe GE-645.
+
+b.	 Multics có một số đổi mới, nhưng cũng có nhiều vấn đề nghiêm trọng. Thất vọng vì quy mô và sự phức tạp của Multics , các nhà nghiên cứu cá nhân tại Bell Labs đã bắt đầu rút khỏi dự án. 
+
+c.	Những người cuối cùng rời đi là Ken Thompson, Dennis Ritchie, Douglas McIlroy, và Joe Ossanna, những người quyết định thực hiện lại trải nghiệm của họ trong một dự án mới với quy mô nhỏ hơn. Hệ điều hành mới này ban đầu không có sự hỗ trợ của tổ chức và cũng không có tên.
+
+d.	Vào những năm 1990, các hệ thống tương tự Unix và Unix đã trở nên phổ biến và trở thành hệ điều hành được lựa chọn cho hơn 90% trong số 500 siêu máy tính nhanh nhất thế giới, do các bản phân phối BSD và Linux được phát triển thông qua sự hợp tác của một mạng lưới lập trình viên trên toàn thế giới.
+
+e.	 Năm 2000, Apple đã phát hành Darwin, cũng là một hệ thống Unix, trở thành cốt lõi của hệ điều hành Mac OS X, sau này được đổi tên thành macOS. 
+
+f.	Hệ điều hành Unix được sử dụng rộng rãi trong các servers, workstations, và thiết bị di động hiện đại.
+
+
+III.	Hệ điều hành Linux
+a)	
+•	Linux là một họ các hệ điều hành tự do nguồn mở tương tự Unix và dựa trên Linux kernel, một hạt nhân hệ điều hành được phát hành bởi Linus Torvalds.
+•	Linux được phát triển dựa trên hệ điều hành Unix và bằng viết bằng ngôn ngữ C.
+
+•	Do Linux được phát hành miễn phí và có nhiều ưu điểm vượt trội nên Linux vẫn giữ được một chỗ đứng vững chắc trong lòng người dùng trước các ông lớn như Windows hay macOS.
+
+•	Lịch sử của Linux bắt đầu vào năm 1991 với sự bắt đầu của một dự án cá nhân của sinh viên Phần Lan Linus Torvalds để tạo ra một hạt nhân hệ điều hành tự do mới. Kể từ đó, các kết quả của nhân Linux đã được tăng trưởng liên tục trong suốt lịch sử của nó. 
+
+•	Kể từ khi phát hành mã nguồn của nó lần đầu vào năm 1991, nó đã phát triển từ một số nhỏ các tập tin viết bằng C theo một giấy phép cấm phân phối thương mại đến các phiên bản 3.10 vào năm 2013 với hơn 16 triệu dòng mã nguồn, và đến bản phát hành 4.15 năm 2008 nó đã lên có 23.3 triệu dòng lệnh, dưới Giấy phép Công cộng GNU.
+
++ Tạo ra Linux
+
+Năm 1991, trong khi đang theo học ngành Khoa học máy tính tại Đại học Helsinki, Linus Torvalds đã bắt đầu một dự án mà sau đó trở thành Linux kernel.
+ Ông ấy đã viết chương trình dành riêng cho phần cứng ông đang sử dụng và độc lập với một hệ điều hành vì ông muốn sử dụng các chức năng của PC mới của mình với bộ xử lý 80386. Việc phát triển được thực hiện trên MINIX dùng GNU C Compiler. GNU C Compiler vẫn là lựa chọn chính để biên dịch Linux ngày nay, nhưng có thể được xây dựng với các trình biên dịch khác, chẳng hạn như Intel C Compiler.
+
+Như Torvalds đã viết trong cuốn sách Just for Fun, cuối cùng anh ta đã viết một kernel hệ điều hành. Vào ngày 25 tháng 8 năm 1991, anh ta (ở tuổi 21) đã công bố hệ thống này trong một bài đăng trên Usenet trên newsgroup "comp.os.minix."
+
+Theo Torvalds, Linux bắt đầu đạt được tầm quan trọng vào năm 1992 sau khi Hệ thống X Window được Orest Zborowski port sang Linux, cho phép Linux hỗ trợ GUI lần đầu tiên.
++ Linh vật của Linux
+
+Torvalds tuyên bố vào năm 1996 rằng sẽ có một linh vật cho Linux, một chú chim cánh cụt.. Điều này là do thực tế khi họ chuẩn bị chọn linh vật, Torvalds đã đề cập đến việc anh ta bị cắn bởi một chú chim cánh cụt nhỏ (Eudyptula minor) trong chuyến thăm National Zoo & Aquarium tại Canberra, Australia.
+ Larry Ewing đã cung cấp bản thảo gốc của linh vật nổi tiếng ngày nay dựa trên mô tả này. Cái tên tux được James Hughes gợi ý là bắt nguồn từ Torvalds' UniX, cùng với tên viết tắt của tuxedo, một loại bộ đồ có màu tương tự như của một chú chim cánh cụt.
+b)	Cấu trúc hệ điều hành Linux
++ Kernel
+
+Hay được gọi là phần Nhân vì đây là phần quan trọng nhất trong máy tính bởi chứa đựng các module hay các thư viện để quản lý, giao tiếp giữa phần cứng máy tính và các ứng dụng.
+
+
++ Shell
+
+Shell là phần có chức năng thực thi các lệnh (command) từ người dùng hoặc từ các ứng dụng yêu cầu, chuyển đến cho Kernel xử lý. Shell chính là cầu nối để kết nối Kernel và Application, phiên dịch các lệnh từ Application gửi đến Kernel để thực thi.
+
+Có các loại Shell như sau: sh (the Bourne Shell), bash(Bourne-again shell), csh (C shell), ash (Almquist shell), tsh (TENEX C shell), zsh (Z shell).
+
++ Application
+
+•	Đây là phần quen thuộc với chúng ta nhất, phần để người dùng cài đặt ứng dụng, chạy ứng dụng để người dùng có thể phục vụ cho nhu cầu của mình.
+ 
+
+
+- Công dụng của hệ điều hành Linux
+ 
+Tương tự như các hệ điều hành khác, Linux cũng cấp môi trường trung gian để người dùng có thể giao tiếp với phần cứng máy tính, thực hiện các công việc của mình.
+
+Bên cạnh đó, nhờ ứng dụng mã nguồn mở mà Linux đem lại nhiều sự thoải mái hơn cho người dùng, đặc biệt các lập trình viên, nhà phát triển.
+
+
+
+c)	Ưu, nhược điểm của hệ điều hành Linux
+- Ưu điểm
+
++ Miễn phí và được hỗ trợ các ứng dụng văn phòng OpenOffice và LibreOffice.
+
++ Tính bảo mật cao.
+
++ Tính linh hoạt, người dùng có thể chỉnh sửa hệ điều hành để phù hợp với nhu cầu sử dụng của mình.
+
++ Không lo sợ giật, lag, không chạy nổi,…trên các máy tính có cấu hình không cao. 
+
+- Nhược điểm
+
++ Các nhà phát triển phần mềm vẫn chưa để tâm đến hệ điều hành tiềm năng này nên số lượng phần mềm được hỗ trợ vẫn còn hạn chế.
+
++ Một số nhà sản xuất không phát triển driver hỗ trợ nền tảng Linux. 
+
+ẢO thật đấy.
+
